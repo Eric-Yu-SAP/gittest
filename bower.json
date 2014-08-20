@@ -1,0 +1,9 @@
+{
+  "name": "package",
+  "version": "0.0.1",
+  "dependencies": {
+    "openui5-bower": "~1.18.8",
+    "jquery-ui": "~1.10.4",
+    "jquery": "~2.1.1"
+  }
+}
