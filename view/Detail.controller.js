@@ -26,6 +26,7 @@
 		
 		handleApprove: function() {
 			// show confirmation dialog
+			// git test
 			var bundle = this.getView().getModel("i18n").getResourceBundle();
 			sap.m.MessageBox.confirm(
 				bundle.getText("ApproveDialogMsg"),
